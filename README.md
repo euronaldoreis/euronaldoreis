@@ -1,5 +1,3 @@
-# Hey 👋
-
 My name is Ronaldo Reis.
 
 I'm A Computer Scientist, that has been working as a Front-End developer since 2016.  💻
