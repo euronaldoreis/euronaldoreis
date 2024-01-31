@@ -1,6 +1,6 @@
 My name is Ronaldo Reis.
 
-I'm A Computer Scientist, that has been working as a Front-End and Mobile developer since 2016.  💻
+I'm A Computer Scientist, that has been working as a Front-End and Mobile developer since 2014.  💻
 
 Enthusiast of the best web & mobile development technologies.
 
